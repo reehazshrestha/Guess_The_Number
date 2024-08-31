@@ -5,4 +5,4 @@
 - User have to guess the number before the **Score** of the user get below 1.
 - If user didn't guess the secret number then the user will get **Eliminated**.
 
-* This **Game** is created by using basic **HTML** , **CSS** and **JAVASCRIPT** ! *
+*This **Game** is created by using basic **HTML** , **CSS** and **JAVASCRIPT** !*
