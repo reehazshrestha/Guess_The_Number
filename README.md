@@ -6,3 +6,5 @@
 - If user didn't guess the secret number then the user will get **Eliminated**.
 
 *This **Game** is created by using basic **HTML** , **CSS** and **JAVASCRIPT** !*
+
+# Test Website :- https://reehazshrestha.github.io/Guess_The_Number/
